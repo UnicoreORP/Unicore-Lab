@@ -1,0 +1,6 @@
+*.bsp
+*.tle
+gp.php
+__pycache__/
+.venv/
+venv/
